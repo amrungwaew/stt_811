@@ -1,2 +1,2 @@
 # 811project
- stt 811 project
+This is a repository for project materials in Python for STT 811.
